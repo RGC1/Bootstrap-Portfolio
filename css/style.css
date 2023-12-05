@@ -33,3 +33,8 @@ ul li {
     justify-content: end;
     gap: 30px;
 }
+
+.card {
+    border-color: rgb(66, 69, 73);
+    border-width: 2px;
+}
