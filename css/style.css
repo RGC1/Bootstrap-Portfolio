@@ -24,3 +24,12 @@ ul li {
     margin: 0;
 }
 
+.tech-skills {
+    display: grid;
+}
+
+.contact-info {
+    display:flex;
+    justify-content: end;
+    gap: 30px;
+}
