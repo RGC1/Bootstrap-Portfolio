@@ -32,6 +32,10 @@ ul li {
     display:flex;
     justify-content: end;
     gap: 30px;
+    background-color: rgb(238, 226, 218);
+    padding: 20px;
+    border-radius: 10px;;
+
 }
 
 .card {
