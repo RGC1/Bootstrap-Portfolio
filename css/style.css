@@ -50,3 +50,12 @@ ul li {
     background-color: rgb(228, 208, 208);
     background-image: url(../images/pic1.jpg);
 }
+
+button {
+    transition-duration: 0.5s;
+}
+
+button :hover{
+    background-color:white;
+    color:black;
+}
