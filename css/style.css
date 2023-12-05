@@ -10,6 +10,10 @@ body {
     line-height: 1.5;
 }
 
+h2 {
+margin: 30px;
+
+}
 .navbar {
     justify-content: end;
     color: white;
@@ -60,6 +64,7 @@ button {
 }
 
 button :hover{
-    background-color:white;
+    background-color:rgb(241, 198, 198);
     color:black;
+    box-shadow:0 10px 15px 0 rgba(0, 0, 0, 0.2), 0 15px 20px 0 rgba(0, 0, 0, 0.2) ;
 }
