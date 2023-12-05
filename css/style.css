@@ -38,3 +38,14 @@ ul li {
     border-color: rgb(66, 69, 73);
     border-width: 2px;
 }
+
+#pers-foto {
+    display: flex;
+    justify-self: left;
+    width: 150px;
+    border-radius: 600px;
+}
+
+.container-fluid {
+    background-color: rgb(228, 208, 208);
+}
